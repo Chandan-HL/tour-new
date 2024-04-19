@@ -2,7 +2,7 @@
 <?php session_start(); ?>
     <div id="menu-bar" class="fas fa-bars"></div>
 
-    <a href="#" class="nav-link logo"><span>Book</span>mytrip</a>
+    <a href="#" class="nav-link logo"><span>99</span>tours.in</a>
 
     <nav class="navbar">
     <li class="nav-item">
